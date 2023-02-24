@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Me chamo Marcel, formando em Administração, MBA em Marketing e sempre fui um admirador da tecnologia. Estou em transição de carreira e ataulmente sou estudante de Desenvolvimento Web na Trybe.
+Me chamo Marcel, formando em Administração, MBA em Marketing e sempre fui um admirador da tecnologia. E atualmente sou estudante de Desenvolvimento Web.
 
-Gosto muito de relacionamentos sociais, o que me fez ter mais de 10 anos de experiência na área comercial/vendas. Em busca de novos desafios, estou fazendo transição de carreira para a área da Tecnologia, estudando Desenvolvimento Web na Trybe, onde estou aprendendo JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais.
+Gosto muito de relacionamentos sociais, o que me fez ter mais de 10 anos de experiência na área comercial como Executivo de Vendas. Porém, em busca de novos desafios, estou em transição de carreira para a área da Tecnologia, estudando Desenvolvimento Web na Trybe, onde estou aprendendo os conhecimentos na área de programação, os princípios e as principais ferramentas do Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e aperfeiçoando habilidades comportamentais.
+
+Os conhecimentos técnicos em Javascript, Typescript, HTML, CSS, React, Docker, SQL, Node.js são explorados nos mais diversos projetos desenvolvidos na Trybe.
