@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 Me chamo Marcel, sou formando em Administração, possuo MBA em Marketing e sempre fui um admirador da tecnologia. Atualmente sou estudante de Desenvolvimento Web.
 
-Construir relacionamentos sociais sólidos é um ponto forte meu, isso me fez ter mais de 10 anos de experiência na área comercial como Executivo de Vendas. Porém, busco novos desafios, e por isso estou em transição de carreira para a área da Tecnologia.
+Construir relacionamentos sociais sólidos é um ponto forte meu, isso me fez ter mais de 10 anos de experiência na área comercial como Executivo de Vendas. Porém, busco novos desafios e por isso estou em transição de carreira para a área da Tecnologia.
 
-Estudo Desenvolvimento Web na Trybe, onde estou aprendendo os conhecimentos na área de programação, os princípios e as ferramentas principais do Front-end, Back-end, Ciência da Computação, Metodologias Ágeise e indo além, aperfeiçoando habilidades comportamentais.
+Estudo Desenvolvimento Web na Trybe, onde estou aprendendo os conhecimentos na área de programação, os princípios e as ferramentas principais do Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e indo além, aperfeiçoando habilidades comportamentais.
 
 Meus conhecimentos técnicos em Javascript, Typescript, HTML, CSS, React, Docker, SQL, Node.js e Testes são explorados nos mais diversos projetos desenvolvidos no curso da Trybe.
