@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, tudo bom? 👋
 
 <!--
 **marcellsa/marcellsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Me chamo Marcel, formando em Administração, MBA em Marketing e sempre fui um admirador da tecnologia. Estou em transição de carreira e ataulmente sou estudante de Desenvolvimento Web na Trybe.
+
+Gosto muito de relacionamentos sociais, o que me fez ter mais de 10 anos de experiência na área comercial/vendas. Em busca de novos desafios, estou fazendo transição de carreira para a área da Tecnologia, estudando Desenvolvimento Web na Trybe, onde estou aprendendo JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais.
