@@ -18,3 +18,4 @@ h3 align="left">Idiomas e ferramentas: </h3>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcellsa&show_icons=true&locale=en" alt="marcellsa" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcellsa&" alt="marcellsa" /></p>
+
