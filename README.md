@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
 <h3 align="center">Backend developer - Brazil</h3>
 
+- 🌍  I'm based in Sorocaba, São Paulo, Brazil
+
 - 🌱 I’m currently learning **Full Stack Web development at TRYBE!**
 
 - 📫 How to reach me **msalbuquerque@hotmail.com**
