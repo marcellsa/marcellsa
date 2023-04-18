@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web development at TRYBE!**
 
-- 📫 How to reach me **msalbuquerque@hotmail.com**
+- 📫 You can contact me at **msalbuquerque@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
