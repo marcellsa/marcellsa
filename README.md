@@ -32,9 +32,9 @@
 
 - [Project Name](project link): Brief description of the project and its main technologies.
 
-- [Project Name](project link): Brief description of the project and its main technologies.
+- [Car Shop](https://github.com/marcellsa/trybe-car-shop): API with CRUD to manage a car shop - Typescript, MongoDB, Mongoose.
 
-- [Project Name](project link): Brief description of the project and its main technologies.
+- [Blogs API](https://github.com/marcellsa/trybe-blogs-api): Blog API with CRUD functionality - Node, Express, MySQL.
 
 ## Contact Me
 
