@@ -1,26 +1,26 @@
-# 👋 Welcome to my GitHub profile!
+# 👋 Bem-vindo ao meu perfil do GitHub!
 
-## About me
+## Sobre mim
 
-👨‍💻 My name is **Marcel** and I'm a **Backend Developer**.
+👨‍💻 Meu nome é **Marcel** e sou **Desenvolvedor Backend**.
 
-🌍 I'm based in Sorocaba, São Paulo, **Brazil**
+🌍 Sou de Recife mas atualmente moro em Sorocaba, São Paulo, **Brazil**
 
-🌱 I’m currently learning **Full Stack Web development at TRYBE!**
+🌱 Concluí o curso de **Desenvolvimento Web Full Stack Web na TRYBE** e atualmente estuddo exploro Python, Flask e Django
 
-## Languages and Tools
+## Linguagens e Tecnologias
 
-🔧 Programming Languages: **JavaScript, TypeScript, Python**
+🔧 Linguagens de programação: **JavaScript, TypeScript, Python**
 
-🌐 Web Development: **HTML, CSS, React, Node.js, Express**
+🌐 Desenvolvimento Web: **HTML, CSS, React, Node.js, Express, Django, Flask**
 
-⚙️ Process Automation and Optimization: **Docker**
+⚙️ Automação e Otimização de Processos: **Docker**
 
-🏢 Databases: **MySQL, MongoDB**
+🏢 Bancos de dados: **MySQL, MongoDB**
 
-🧪 Testing: **Jest, JUnit, pytest**
+🧪 Testes: **Jest, JUnit, pytest**
 
-## GitHub Statistics
+## Estatísticas do GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcellsa&show_icons=true&locale=en&layout=compact" alt="marcellsa" /></p>
 
@@ -28,19 +28,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcellsa&" alt="marcellsa" /></p>
 
-## Featured Projects
+## Projetos em destaque
 
 - [Project Name](project link): Brief description of the project and its main technologies.
 
-- [Car Shop](https://github.com/marcellsa/trybe-car-shop): API with CRUD to manage a car shop - Typescript, MongoDB, Mongoose.
+- [Car Shop](https://github.com/marcellsa/trybe-car-shop): API com CRUD para gerenciar uma loja de carros - Typescript, MongoDB, Mongoose.
 
-- [Blogs API](https://github.com/marcellsa/trybe-blogs-api): Blog API with CRUD functionality - Node, Express, MySQL.
+- [Blogs API](https://github.com/marcellsa/trybe-blogs-api): API de blog com funcionalidade CRUD - Node, Express, MySQL.
 
-## Contact Me
+## Contato
 
 ✉️ msalbuquerque@hotmail.com
 
 💼 [LinkedIn](https://linkedin.com/in/marcellsa)
 
 
-Thank you for visiting my profile! 😊
+Obrigado por visitar o meu perfil! 😊
