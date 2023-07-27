@@ -6,7 +6,7 @@
 
 🌍 Sou de Recife mas atualmente moro em Sorocaba, São Paulo, **Brazil**
 
-🌱 Concluí o curso de **Desenvolvimento Web Full Stack Web na TRYBE** e atualmente estuddo exploro Python, Flask e Django
+🌱 Concluí o curso de **Desenvolvimento Web Full Stack Web na TRYBE** e atualmente estudo e exploro Python, Flask e Django
 
 ## Linguagens e Tecnologias
 
