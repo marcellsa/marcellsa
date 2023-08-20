@@ -22,7 +22,7 @@
 
 ## Aprendendo Atualmente
 
-📚 Focado em aprender mais sobre **Python** e seus frameworks **Django** e **Flask**. Estou seguindo cursos online e tutoriais para aprimorar minhas habilidades nessa área. Se você tiver alguma sugestão de recurso ou projeto interessante para aprender mais sobre essas tecnologias, sinta-se à vontade para compartilhar comigo!
+📚 Focado em aprender mais sobre **Python** e seus frameworks **Django** e **Flask**. Estou seguindo cursos online e tutoriais para aprimorar minhas habilidades nessa área. Se você tiver alguma sugestão de recurso ou projeto interessante para aprender mais sobre essas tecnologias, sinta-se à vontade para compartilhar comigo.
 
 ## Estatísticas do GitHub
 
