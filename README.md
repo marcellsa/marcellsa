@@ -48,6 +48,6 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 💼 Meu perfil no [LinkedIn](https://linkedin.com/in/marcellsa) também está disponível.
 
-Valeu por visitar o meu perfil! 😊
+Valeu por visitar o meu perfil!
 
 ---
