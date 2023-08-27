@@ -6,7 +6,7 @@
 
 🌍 Moro em Sorocaba, mas sou natural de Recife, **Brasil**.
 
-🌱 Concluí o curso de **Desenvolvimento Web Full Stack** e, neste momento, aprofundo meus conhecimentos em Node.js, Express e MongoDB;
+🌱 Concluí o curso de **Desenvolvimento Web Full Stack** e, neste momento, aprofundo meus conhecimentos em Node.js, Express e MongoDB.
 
 ## Linguagens e Tecnologias
 
