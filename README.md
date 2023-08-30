@@ -22,7 +22,7 @@
 
 ## Aprendendo Atualmente
 
-📚 Focado em aprender mais sobre **Python** e seus frameworks **Django** e **Flask**. Estou seguindo cursos online e tutoriais para aprimorar minhas habilidades nessa área. Se você tiver alguma sugestão de recurso ou projeto interessante para aprender mais sobre essas tecnologias, sinta-se à vontade para compartilhar comigo.
+📚 Anteriormente, minha dedicação estava em aprender sobre Python, com foco nos frameworks Django e Flask. Estou avançando por um novo caminho, concentrando-me agora em solidificar meu conhecimento em **Node.js, Express, APIs Rest, MongoDB e MySQL**. Caso possua sugestões de recursos ou projetos enriquecedores para essa jornada, agradeço antecipadamente por compartilhá-los.
 
 ## Estatísticas do GitHub
 
