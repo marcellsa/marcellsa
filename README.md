@@ -18,7 +18,7 @@
 
 🏢 Experiência em bancos de dados: **MySQL** e **MongoDB**.
 
-🧪 Conhecimento em testes com **Jest, JUnit** e **pytest**.
+🧪 Conhecimento em testes com **Jest** e **pytest**.
 
 ## Aprendendo Atualmente
 
