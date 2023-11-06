@@ -36,7 +36,7 @@
 
 Aqui estão alguns dos meus projetos mais interessantes:
 
-- **Nome do Projeto**: Uma breve descrição do projeto e suas principais tecnologias utilizadas.
+- **Livraria API**: ([link do projeto](https://github.com/marcellsa/livraria-api))): API REST utilizando o framework Express.
 
 - **Car Shop** ([link do projeto](https://github.com/marcellsa/trybe-car-shop)): Uma API com CRUD para gerenciar uma loja de carros - Desenvolvida com TypeScript, MongoDB e Mongoose.
 
