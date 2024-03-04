@@ -10,7 +10,7 @@
 
 ## Linguagens e Tecnologias
 
-💻 Principais linguagens de programação: **JavaScript, TypeScript** e **Python**.
+💻 Principais linguagens de programação: **JavaScript, TypeScript**, **Python** e **C#**.
 
 🌐 Desenvolvimento web com: **HTML, CSS, React, Node.js, Express, Django** e **Flask**.
 
