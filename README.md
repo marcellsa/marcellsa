@@ -40,7 +40,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 - **Car Shop** ([link do projeto](https://github.com/marcellsa/trybe-car-shop)): Uma API com CRUD para gerenciar uma loja de carros - Desenvolvida com TypeScript, MongoDB e Mongoose.
 
-- **Blogs API** ([link do projeto](https://github.com/marcellsa/trybe-blogs-api)): Uma API de blog com funcionalidades CRUD - Desenvolvida com Node.js, Express e MySQL.
+- **Blogs API** ([link do projeto](https://github.com/marcellsa/trybe-blogs-api)): Sistema (API) que permite criar, editar e excluir postagens em um blog - Desenvolvida com Node.js, Express e MySQL.
 
 ## Contato
 
