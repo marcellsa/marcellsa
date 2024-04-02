@@ -12,7 +12,7 @@
 
 💻 Principais linguagens de programação: **JavaScript, TypeScript** e **Python**.
 
-🌐 Desenvolvimento web com: **HTML, CSS, React, Node.js, Express, Django** e **Flask**.
+🌐 Desenvolvimento web com: **HTML, CSS, React, Node.js** e **Express**.
 
 ⚙️ Automação e otimização de processos com: **Docker**.
 
