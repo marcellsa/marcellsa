@@ -36,7 +36,7 @@
 
 Aqui estão alguns dos meus projetos mais interessantes:
 
-- **Livraria API**: ([link do projeto](https://github.com/marcellsa/livraria-api)): Sistema (API) para uma livraria, utilizando tecnologias populares como Node.js e MongoDB para gerenciar dados de livros, autores e editoras.
+- **Bookstore API**: ([link do projeto](https://github.com/marcellsa/livraria-api)): Sistema (API) para uma livraria, utilizando tecnologias populares como Node.js e MongoDB para gerenciar dados de livros, autores e editoras.
 
 - **Car Shop** ([link do projeto](https://github.com/marcellsa/trybe-car-shop)): Sistema (API) para gerenciar uma concessionária de carros, permitindo adicionar, visualizar, editar e excluir informações sobre os carros disponíveis - Desenvolvido com TypeScript, MongoDB e Mongoose.
 
