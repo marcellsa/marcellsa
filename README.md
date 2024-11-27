@@ -27,11 +27,11 @@
 
 Aqui estão alguns dos meus projetos mais relevantes:
 
-- **Análise de Turnover em Empresas de Tecnologia** ([link do projeto](https://github.com/marcellsa/turnover-analysis)): Projeto baseado na metodologia CRISP-DM, utilizando Python e SQL para explorar 19 fatores que influenciam o comportamento de turnover de funcionários.
+- **Análise de Turnover em Empresas de Tecnologia** ([link do projeto](https://github.com/marcellsa/turnover-analysis)): Projeto baseado na metodologia CRISP-DM, utilizando Python e Excel para explorar 19 fatores que influenciam o comportamento de turnover de funcionários.
 
 - **Dashboard de Vendas** ([link do projeto](https://github.com/marcellsa/sales-dashboard)): Construção de um dashboard interativo no Power BI para monitorar KPIs de vendas e identificar tendências de mercado.
 
-- **Steam Games Analysis** ([link do projeto](https://github.com/marcellsa/steam-analysis)): Exploração de dados de mais de 70.000 jogos da plataforma Steam, com foco em visualizações e insights sobre popularidade e categorias.
+- **Steam Games Analysis** ([link do projeto](https://github.com/marcellsa/steam-analysis)): Exploração de dados de mais de 70.000 jogos da plataforma Steam usando Python, com foco em visualizações e insights sobre popularidade e categorias.
 
 ## Aprendendo Atualmente
 
