@@ -2,27 +2,40 @@
 
 ## Sobre mim
 
-👨‍💻 Eu sou **Marcel**, **Desenvolvedor Backend**.
+👨‍💻 Eu sou **Marcel**, **Analista de Dados**.
 
-🌍 Moro em Sorocaba, mas sou natural de Recife, Brasil.
+🌍 Moro em Sorocaba, mas sou natural de Recife-PE, Brasil.
 
-🌱 Concluí o curso de Desenvolvimento Web Full Stack e, neste momento, aprofundo meus conhecimentos em Node.js, Express e MongoDB.
+📊 Minha transição para a área de dados foi motivada pela paixão por resolver problemas usando dados.
 
 ## Linguagens e Tecnologias
 
-💻 Principais linguagens de programação: **JavaScript, TypeScript** e **Python**.
+💻 Principais ferramentas e linguagens que utilizo no dia a dia:
 
-🌐 Desenvolvimento web com: **HTML, CSS, React, Node.js** e **Express**.
+- **Python** (para análise de dados, automação e construção de scripts).
+- **SQL** (consultas e modelagem de bancos de dados relacionais como MySQL e PostgreSQL).
+- **Excel** (análises e visualizações rápidas, incluindo Power Query).
+- **Power BI** (criação de dashboards interativos e análises visuais).
 
-⚙️ Automação e otimização de processos com: **Docker**.
+🌐 Desenvolvimento básico com **HTML** e **CSS**, que ainda utilizo para ajustes em projetos web relacionados a dados.
 
-🏢 Experiência em bancos de dados: **MySQL** e **MongoDB**.
+⚙️ Experiência em **ETL**, organização e limpeza de grandes conjuntos de dados.
 
-🧪 Conhecimento em testes com **Jest** e **pytest**.
+🧪 Conhecimento em bibliotecas e frameworks Python: **Pandas**, **Matplotlib**, **Seaborn**, e **Scikit-learn**.
+
+## Projetos em destaque
+
+Aqui estão alguns dos meus projetos mais relevantes:
+
+- **Análise de Turnover em Empresas de Tecnologia** ([link do projeto](https://github.com/marcellsa/turnover-analysis)): Projeto baseado na metodologia CRISP-DM, utilizando Python e SQL para explorar 19 fatores que influenciam o comportamento de turnover de funcionários.
+
+- **Dashboard de Vendas** ([link do projeto](https://github.com/marcellsa/sales-dashboard)): Construção de um dashboard interativo no Power BI para monitorar KPIs de vendas e identificar tendências de mercado.
+
+- **Steam Games Analysis** ([link do projeto](https://github.com/marcellsa/steam-analysis)): Exploração de dados de mais de 70.000 jogos da plataforma Steam, com foco em visualizações e insights sobre popularidade e categorias.
 
 ## Aprendendo Atualmente
 
-📚 Anteriormente, minha dedicação estava em aprender sobre Python, com foco nos frameworks Django e Flask. Estou avançando por um novo caminho, concentrando-me agora em solidificar meu conhecimento em **Node.js, Express, APIs Rest, MongoDB e MySQL**. Caso possua sugestões de recursos ou projetos enriquecedores para essa jornada, agradeço antecipadamente por compartilhá-los.
+📚 Estou aprimorando minhas habilidades em **modelagem preditiva** e **machine learning**, além de expandir meus conhecimentos em bancos de dados não-relacionais como **MongoDB** e ferramentas de nuvem como **AWS**.
 
 ## Estatísticas do GitHub
 
@@ -32,22 +45,12 @@
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=marcellsa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcellsa&" alt="marcellsa" /></a>
 </p>
 
-## Projetos em destaque
-
-Aqui estão alguns dos meus projetos mais interessantes:
-
-- **Bookstore API**: ([link do projeto](https://github.com/marcellsa/livraria-api)): Sistema (API) para uma livraria, utilizando tecnologias populares como Node.js e MongoDB para gerenciar dados de livros, autores e editoras.
-
-- **Car Shop** ([link do projeto](https://github.com/marcellsa/trybe-car-shop)): Sistema (API) para gerenciar uma concessionária de carros, permitindo adicionar, visualizar, editar e excluir informações sobre os carros disponíveis - Desenvolvido com TypeScript, MongoDB e Mongoose.
-
-- **Blogs API** ([link do projeto](https://github.com/marcellsa/trybe-blogs-api)): Sistema (API) que permite criar, editar e excluir postagens em um blog - Desenvolvido com Node.js, Express e MySQL.
-
 ## Contato
 
 ✉️ Entre em contato através do email: msalbuquerque@hotmail.com
 
-💼 Meu perfil no [LinkedIn](https://linkedin.com/in/marcellsa) também está disponível.
+💼 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/marcellsa).
 
-Valeu por visitar o meu perfil!
+Obrigado por visitar o meu perfil! 🚀
 
 ---
